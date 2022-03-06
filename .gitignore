@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-*.tsv
+events.2018.20181119132436.tsv
 __pycache__/
 *.py[cod]
 *$py.class
