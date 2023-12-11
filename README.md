@@ -1,2 +1,2 @@
-# Temporal-KGC-Benchmark-Datasets
-Temporal Knowledge Graph Completion Benchmark Datasets
+# Temporal knowledge graph completion benchmark datasets
+
