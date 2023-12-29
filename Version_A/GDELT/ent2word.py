@@ -2,7 +2,7 @@
 # @Time    : 2019/12/5 4:20 
 # @Author  : Lee_zix
 # @Email   : Lee_zix@163.com
-# @File    : ent2word.py.py
+# @File    : ent2word.py
 # @Software: PyCharm
 
 import os
